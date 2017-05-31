@@ -1,7 +1,9 @@
+# maven-grunt
+
 The original discussion is [here](https://stackoverflow.com/questions/25855873/java-gulp-and-maven-folder-structure).
 This is an option B
 
-### maven-grunt
+
 I'm currently using Java + Grunt + Maven. I've found there are two ways of packaging your frontend with your backend and the same will certainly apply to Gulp.
 
 In the end it's up to what's best for your project/team. From my experience I usually use option B when working with others since the decoupling is easily worth the other issues. When I'm doing my own side projects I always go for option A because it's just easier to launch one webserver and to run a local environment closer to what DEV/PROD is like.
